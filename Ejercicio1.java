@@ -7,7 +7,7 @@ public class Ejercicio1 {
         Scanner entradaPorConsola = new Scanner(System.in);
         System.out.println("Ingrese su nombre de USUARIO:");
         String nombreUsuario = entradaPorConsola.nextLine();
-        System.out.println("Hola " + nombreUsuario + "!!!");
+        System.out.println("HOLA " + nombreUsuario + "!!!");
         entradaPorConsola.close();
         
     }
